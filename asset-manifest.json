@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodtruck/static/css/main.206eae19.css",
+    "main.js": "/foodtruck/static/js/main.b1e24ebc.js",
+    "static/js/787.6296f3c0.chunk.js": "/foodtruck/static/js/787.6296f3c0.chunk.js",
+    "index.html": "/foodtruck/index.html",
+    "main.206eae19.css.map": "/foodtruck/static/css/main.206eae19.css.map",
+    "main.b1e24ebc.js.map": "/foodtruck/static/js/main.b1e24ebc.js.map",
+    "787.6296f3c0.chunk.js.map": "/foodtruck/static/js/787.6296f3c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.206eae19.css",
+    "static/js/main.b1e24ebc.js"
+  ]
+}
